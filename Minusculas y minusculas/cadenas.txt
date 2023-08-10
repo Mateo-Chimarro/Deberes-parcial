@@ -1,0 +1,9 @@
+La cadena ingresada es: Mateo ChiMarro
+
+La cadena ingresada en mayusculas es: MATEO CHIMARRO
+
+La cadena ingresada en minusculas es: mateo chimarro
+
+La cadena alternada en mayusculas y minusculas es: MaTeO ChImArRo
+
+
